@@ -1,0 +1,3 @@
+line 1
+this is merged version
+line 3 updated
