@@ -1,1 +1,3 @@
-feature branch version
+line 1
+this is the main version
+line 3
