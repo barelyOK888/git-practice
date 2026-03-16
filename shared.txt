@@ -1,3 +1,3 @@
 line 1
-this is the main version
+this is the FEATURE version
 line 3
